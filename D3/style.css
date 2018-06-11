@@ -1,0 +1,7 @@
+.bar {
+  fill: #1abc9c;
+}
+
+.bar:hover {
+  fill: #16a085 ;
+}
